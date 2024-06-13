@@ -35,9 +35,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"D:\GameJamTroupeSOSE2024\PreGameJamProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"D:\GameJamTroupeSOSE2024\PreGameJamProject\Plugins\PerlinNoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Perlin_Noise\Module.Perlin_Noise.cpp.obj"
-"D:\GameJamTroupeSOSE2024\PreGameJamProject\Plugins\PerlinNoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Perlin_Noise\Default.rc2.res"
+"I:\Uni-Git\Master-GD\PreGameJamProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"I:\Uni-Git\Master-GD\PreGameJamProject\Plugins\PerlinNoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Perlin_Noise\Module.Perlin_Noise.cpp.obj"
+"I:\Uni-Git\Master-GD\PreGameJamProject\Plugins\PerlinNoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Perlin_Noise\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -68,7 +68,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\GameJamTroupeSOSE2024\PreGameJamProject\Plugins\PerlinNoise\Binaries\Win64\UnrealEditor-Perlin_Noise.dll"
-/IMPLIB:"D:\GameJamTroupeSOSE2024\PreGameJamProject\Plugins\PerlinNoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Perlin_Noise\UnrealEditor-Perlin_Noise.sup.lib"
-/PDB:"D:\GameJamTroupeSOSE2024\PreGameJamProject\Plugins\PerlinNoise\Binaries\Win64\UnrealEditor-Perlin_Noise.pdb"
+/OUT:"I:\Uni-Git\Master-GD\PreGameJamProject\Plugins\PerlinNoise\Binaries\Win64\UnrealEditor-Perlin_Noise.dll"
+/IMPLIB:"I:\Uni-Git\Master-GD\PreGameJamProject\Plugins\PerlinNoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Perlin_Noise\UnrealEditor-Perlin_Noise.sup.lib"
+/PDB:"I:\Uni-Git\Master-GD\PreGameJamProject\Plugins\PerlinNoise\Binaries\Win64\UnrealEditor-Perlin_Noise.pdb"
 /ignore:4078

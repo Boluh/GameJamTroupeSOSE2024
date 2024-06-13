@@ -81,5 +81,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="First Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=PreGameJamProject
-/fo "D:\GameJamTroupeSOSE2024\PreGameJamProject\Plugins\PerlinNoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Perlin_Noise\Default.rc2.res"
+/fo "I:\Uni-Git\Master-GD\PreGameJamProject\Plugins\PerlinNoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Perlin_Noise\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

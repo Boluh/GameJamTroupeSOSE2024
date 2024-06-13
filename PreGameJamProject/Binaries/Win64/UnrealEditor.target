@@ -12,8 +12,8 @@
 	{
 		"MajorVersion": 5,
 		"MinorVersion": 4,
-		"PatchVersion": 1,
-		"Changelist": 33305029,
+		"PatchVersion": 2,
+		"Changelist": 33871570,
 		"CompatibleChangelist": 33043543,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
@@ -6498,23 +6498,15 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/FastNoiseGenerator/Binaries/Win64/UnrealEditor-FastNoise.dll",
+			"Path": "$(EngineDir)/Plugins/Marketplace/SimpleNoiseGenerators/Binaries/Win64/UnrealEditor-SimpleNoiseGenerators.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/FastNoiseGenerator/Binaries/Win64/UnrealEditor-FastNoise.pdb",
+			"Path": "$(EngineDir)/Plugins/Marketplace/SimpleNoiseGenerators/Binaries/Win64/UnrealEditor-SimpleNoiseGenerators.pdb",
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/FastNoiseGenerator/Binaries/Win64/UnrealEditor-FastNoiseGenerator.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/FastNoiseGenerator/Binaries/Win64/UnrealEditor-FastNoiseGenerator.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/FastNoiseGenerator/Binaries/Win64/UnrealEditor.modules",
+			"Path": "$(EngineDir)/Plugins/Marketplace/SimpleNoiseGenerators/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
